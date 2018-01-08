@@ -20,3 +20,9 @@
 [2018-01-08 22:18:22.478] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
 [2018-01-08 22:18:22.634] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
 [2018-01-08 22:18:22.634] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-01-08 23:12:08.346] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-01-08 23:12:08.346] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-01-08 23:12:08.437] [exthost1] [info] ExtensionService#_doActivateExtension Microsoft.vscode-markdown {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-01-08 23:12:08.437] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown/out/extension
+[2018-01-08 23:12:08.904] [exthost1] [info] ExtensionService#_doActivateExtension vscode.javascript {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-08 23:12:08.904] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/javascript/out/javascriptMain
